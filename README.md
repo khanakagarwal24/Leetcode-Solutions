@@ -20,6 +20,7 @@ Daily DSA practice to master problem-solving patterns.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3536-maximum-product-of-two-digits](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
 |  |
