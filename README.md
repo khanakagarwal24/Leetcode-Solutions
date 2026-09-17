@@ -26,4 +26,12 @@ Daily DSA practice to master problem-solving patterns.
 |  |
 | ------- |
 | [3536-maximum-product-of-two-digits](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
+## Array
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
