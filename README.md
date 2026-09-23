@@ -25,11 +25,13 @@ Daily DSA practice to master problem-solving patterns.
 ## Sorting
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Array
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0414-third-maximum-number](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 ## Two Pointers
 |  |
 | ------- |
