@@ -25,16 +25,34 @@ Daily DSA practice to master problem-solving patterns.
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Array
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0169-majority-element](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0896-monotonic-array](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0896-monotonic-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
