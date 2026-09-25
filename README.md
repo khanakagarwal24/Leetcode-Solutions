@@ -35,6 +35,7 @@ Daily DSA practice to master problem-solving patterns.
 | [0169-majority-element](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0896-monotonic-array](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0896-monotonic-array) |
+| [1929-concatenation-of-array](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,4 +56,8 @@ Daily DSA practice to master problem-solving patterns.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
