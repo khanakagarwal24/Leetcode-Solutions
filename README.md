@@ -31,6 +31,7 @@ Daily DSA practice to master problem-solving patterns.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0169-majority-element](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
@@ -43,6 +44,7 @@ Daily DSA practice to master problem-solving patterns.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
