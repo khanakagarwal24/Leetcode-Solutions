@@ -35,6 +35,7 @@ Daily DSA practice to master problem-solving patterns.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0169-majority-element](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
+| [0832-flipping-an-image](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0896-monotonic-array) |
 | [1572-matrix-diagonal-sum](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
@@ -44,6 +45,7 @@ Daily DSA practice to master problem-solving patterns.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0832-flipping-an-image](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,12 +66,18 @@ Daily DSA practice to master problem-solving patterns.
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/2319-check-if-matrix-is-x-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
