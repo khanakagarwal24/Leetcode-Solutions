@@ -35,6 +35,7 @@ Daily DSA practice to master problem-solving patterns.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0169-majority-element](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
+| [0766-toeplitz-matrix](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0896-monotonic-array) |
@@ -72,6 +73,7 @@ Daily DSA practice to master problem-solving patterns.
 ## Matrix
 |  |
 | ------- |
+| [0766-toeplitz-matrix](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
