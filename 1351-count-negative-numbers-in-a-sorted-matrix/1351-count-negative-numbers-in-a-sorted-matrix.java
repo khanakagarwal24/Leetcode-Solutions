@@ -3,13 +3,17 @@ class Solution {
         int m=grid.length;
         int n=grid[0].length;
         int count=0;
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
-                if(grid[i][j]<0){
-                    count++;
+        int row=0;
+        int col=n-1;
+        while(col>=0 && row<m){
+                if(grid[row][col]<0){
+                     col--;
+                    count+=m-row;
+                }
+                else{
+                      row++;
                 }
             }
-        }
         return count;
     }
 }
