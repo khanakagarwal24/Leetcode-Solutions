@@ -40,6 +40,7 @@ Daily DSA practice to master problem-solving patterns.
 | [0867-transpose-matrix](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0896-monotonic-array) |
 | [1572-matrix-diagonal-sum](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1929-concatenation-of-array](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/2319-check-if-matrix-is-x-matrix) |
 ## Two Pointers
@@ -77,6 +78,7 @@ Daily DSA practice to master problem-solving patterns.
 | [0832-flipping-an-image](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/2319-check-if-matrix-is-x-matrix) |
 ## Bit Manipulation
 |  |
