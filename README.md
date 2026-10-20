@@ -55,6 +55,7 @@ Daily DSA practice to master problem-solving patterns.
 | ------- |
 | [0001-two-sum](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -93,4 +94,8 @@ Daily DSA practice to master problem-solving patterns.
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## String
+|  |
+| ------- |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
