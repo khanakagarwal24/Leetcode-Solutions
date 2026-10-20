@@ -49,6 +49,7 @@ Daily DSA practice to master problem-solving patterns.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0832-flipping-an-image](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 ## Hash Table
 |  |
@@ -100,6 +101,7 @@ Daily DSA practice to master problem-solving patterns.
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0383-ransom-note](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
