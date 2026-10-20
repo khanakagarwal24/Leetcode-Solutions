@@ -55,6 +55,7 @@ Daily DSA practice to master problem-solving patterns.
 | ------- |
 | [0001-two-sum](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Divide and Conquer
 |  |
@@ -64,6 +65,7 @@ Daily DSA practice to master problem-solving patterns.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -98,6 +100,7 @@ Daily DSA practice to master problem-solving patterns.
 ## String
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
