@@ -28,6 +28,7 @@ Daily DSA practice to master problem-solving patterns.
 | [0169-majority-element](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
+| [1051-height-checker](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/1051-height-checker) |
 | [3536-maximum-product-of-two-digits](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Array
 |  |
@@ -41,6 +42,7 @@ Daily DSA practice to master problem-solving patterns.
 | [0832-flipping-an-image](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0896-monotonic-array) |
+| [1051-height-checker](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/1051-height-checker) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -126,4 +128,12 @@ Daily DSA practice to master problem-solving patterns.
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
