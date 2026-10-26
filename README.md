@@ -38,6 +38,7 @@ Daily DSA practice to master problem-solving patterns.
 | [0054-spiral-matrix](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0169-majority-element](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
+| [0704-binary-search](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0766-toeplitz-matrix](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
@@ -107,6 +108,7 @@ Daily DSA practice to master problem-solving patterns.
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## String
 |  |
