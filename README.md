@@ -35,6 +35,7 @@ Daily DSA practice to master problem-solving patterns.
 | ------- |
 | [0001-two-sum](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0169-majority-element](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
@@ -108,6 +109,7 @@ Daily DSA practice to master problem-solving patterns.
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## String
