@@ -20,6 +20,7 @@ Daily DSA practice to master problem-solving patterns.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3536-maximum-product-of-two-digits](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
@@ -110,6 +111,7 @@ Daily DSA practice to master problem-solving patterns.
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## String
@@ -140,4 +142,8 @@ Daily DSA practice to master problem-solving patterns.
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/1051-height-checker) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
