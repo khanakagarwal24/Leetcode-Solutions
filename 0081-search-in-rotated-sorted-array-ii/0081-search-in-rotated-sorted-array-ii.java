@@ -21,7 +21,7 @@ class Solution {
                     start=mid+1;
                 }
                 else{
-                    end--;
+                    end=mid-1;
                 }
             }
 
