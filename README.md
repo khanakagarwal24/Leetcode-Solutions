@@ -40,6 +40,7 @@ Daily DSA practice to master problem-solving patterns.
 | [0035-search-insert-position](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0704-binary-search) |
@@ -116,6 +117,7 @@ Daily DSA practice to master problem-solving patterns.
 | [0035-search-insert-position](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## String
