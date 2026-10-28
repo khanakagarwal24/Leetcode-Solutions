@@ -50,6 +50,7 @@ Daily DSA practice to master problem-solving patterns.
 | [0867-transpose-matrix](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0896-monotonic-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1051-height-checker](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/1051-height-checker) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
@@ -123,6 +124,7 @@ Daily DSA practice to master problem-solving patterns.
 | [0162-find-peak-element](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/khanakagarwal24/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## String
 |  |
