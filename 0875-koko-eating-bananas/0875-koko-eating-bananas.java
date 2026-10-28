@@ -1,6 +1,6 @@
 class Solution {
     public int minEatingSpeed(int[] piles, int h) {
-        int n=piles.length;
+        
         int max=0;
         int min=1;
        
@@ -11,7 +11,7 @@ class Solution {
         while(min<=max){
             int speed=(min+max)/2;
             long thours=0;
-            for(int j=0;j<n;j++){
+            for(int j=0;j<piles.length;j++){
                  thours+=(long)(speed + piles[j]-1)/speed;
             }
                 if( thours<=h){
